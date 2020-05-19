@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\NomeContrario\bin\Debug\NomeContrario.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\NomeContrario\bin\Debug\NomeContrario.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\NomeContrario\bin\Debug\NomeContrario.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\NomeContrario\obj\Debug\NomeContrario.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\NomeContrario\obj\Debug\NomeContrario.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - String\NomeContrario\obj\Debug\NomeContrario.pdb
